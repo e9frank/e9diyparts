@@ -1,0 +1,9 @@
+While testing I was able to blow up to a 15A fuse.
+The AC side went up to 2.2A which should be over 20A but it did not blow the 20A fuse.
+At 2.2A at 120v AC the connector was 150F after running for a few minutes.  The inverter is supposedly rated at 500W but it definitely cannot produce that.  In fact, it only could do about 300W.
+
+The copper on both sides of the board should be able to support about 50A as long as its properly soldered on both sides.
+
+Included in the testing folder are calculations from the web that show that 25A can be done with the copper traces.  
+
+If you decide to use these parts it's at your own risk.  
