@@ -1,0 +1,6 @@
+Print with no supports
+Printed with PAHT, ABS, and PETG.  ABS is too stiff and the wings break off.
+
+Both STL files are needed.  The locks hold the base in the slot and prevent it from being removed.  Slide in the base onto the metal hangers.  Then drop in the locks.  There are grooves in the locks so they can be lifted out.
+
+The pins fit very tight.  Will be very difficult to remove.
